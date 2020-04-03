@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoardingBus.FlightData.Infrastructure", "BoardingBus.FlightData.Infrastructure\BoardingBus.FlightData.Infrastructure.csproj", "{0B818B7A-BB1D-4776-9BB1-04FD5E32EBDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoardingBus.FlightData.Models", "BoardingBus.FlightData.Models\BoardingBus.FlightData.Models.csproj", "{FE82FFAA-F14D-4C8C-91F6-95D9CD475AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardingBus.FlightDataService", "BoardingBus.FlightDataService\BoardingBus.FlightDataService.csproj", "{F178E234-05C6-44A9-8279-6E0186A40153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B818B7A-BB1D-4776-9BB1-04FD5E32EBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B818B7A-BB1D-4776-9BB1-04FD5E32EBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B818B7A-BB1D-4776-9BB1-04FD5E32EBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B818B7A-BB1D-4776-9BB1-04FD5E32EBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE82FFAA-F14D-4C8C-91F6-95D9CD475AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE82FFAA-F14D-4C8C-91F6-95D9CD475AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE82FFAA-F14D-4C8C-91F6-95D9CD475AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE82FFAA-F14D-4C8C-91F6-95D9CD475AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F178E234-05C6-44A9-8279-6E0186A40153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F178E234-05C6-44A9-8279-6E0186A40153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F178E234-05C6-44A9-8279-6E0186A40153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F178E234-05C6-44A9-8279-6E0186A40153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE2EA95-4B3A-4987-AC9D-5011B6454B23}
+	EndGlobalSection
+EndGlobal
